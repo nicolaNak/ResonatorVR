@@ -1,5 +1,5 @@
 # ResonatorVR
-Source scripts only for a VR shooter game for the HTC Vive made in Unity.
+Source scripts only for a VR shooter game for the HTC Vive made in Unity in 2016 as my final year project at college.
 
 Resontator is a Virtual Reality shooter where you are a DJ who uses weaponised sound from your deck and a sound gun to shoot aliens attacking you in a club.
 
